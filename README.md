@@ -158,3 +158,6 @@ Valor: entre 500 a 1500. Padrão = 1492.
 ```console
 set WANConnectionDevice_2_Enable 1
 ```
+
+### Extra
+[Instruções](https://radzki.github.io/posts/Reverse-Engineering-Sagemcom-F@ST-5302/) para o modem SAGECOM F@ST 5302.
